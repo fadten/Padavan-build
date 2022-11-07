@@ -4,3 +4,4 @@
 只保留了adguardhome dns服务器，并默认配置了ali doh和dnspod的doh。
 
 更新xray为1.4.3。
+oy001
